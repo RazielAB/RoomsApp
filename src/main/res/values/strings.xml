@@ -1,0 +1,52 @@
+<resources>
+<!-- ROOMS NAME    -->
+    <string name="app_name">Room List</string>
+    <string name="affirmation1">Room 404</string>
+    <string name="affirmation2">Room 353</string>
+    <string name="affirmation3">Room 110</string>
+    <string name="affirmation4">Room 411</string>
+    <string name="affirmation5">Room 234</string>
+    <string name="affirmation6">Room 324</string>
+    <string name="affirmation7">Room 348</string>
+    <string name="affirmation8">Room 1</string>
+    <string name="affirmation9">Room 1020</string>
+    <string name="affirmation10">Room 2</string>
+    <!-- BUILDING    -->
+    <string name="bldg1">Fishbach</string>
+    <string name="bldg2">Fishbach</string>
+    <string name="bldg3">Fishbach</string>
+    <string name="bldg4">Fishbach</string>
+    <string name="bldg5">Fishbach</string>
+    <string name="bldg6">Fishbach</string>
+    <string name="bldg7">Fishbach</string>
+    <string name="bldg8">Mayer</string>
+    <string name="bldg9">Ulman</string>
+    <string name="bldg10">Mechanical Eng.</string>
+
+    <!-- MAX CAPACITY    -->
+    <string name="max_c1">Max Capacity: 10</string>
+    <string name="max_c2">Max Capacity: 25</string>
+    <string name="max_c3">Max Capacity: 35</string>
+    <string name="max_c4">Max Capacity: 45</string>
+    <string name="max_c5">Max Capacity: 25</string>
+    <string name="max_c6">Max Capacity: 30</string>
+    <string name="max_c7">Max Capacity: 20</string>
+    <string name="max_c8">Max Capacity: 20</string>
+    <string name="max_c9">Max Capacity: 50</string>
+    <string name="max_c10">Max Capacity: 60</string>
+
+
+    <!-- CURRENT     -->
+    <string name="curr_c1">Current: 10</string>
+    <string name="curr_c2">Current: 5</string>
+    <string name="curr_c3">Current: 5</string>
+    <string name="curr_c4">Current: 5</string>
+    <string name="curr_c5">Current: 5</string>
+    <string name="curr_c6">Current: 10</string>
+    <string name="curr_c7">Current: 10</string>
+    <string name="curr_c8">Current: 10</string>
+    <string name="curr_c9">Current: 10</string>
+    <string name="curr_c10">Current: 40</string>
+
+
+</resources>
